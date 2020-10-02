@@ -7,6 +7,7 @@
 * Docs: <https://docs.opencv.org/master/>
 * Q&A forum: <http://answers.opencv.org>
 * Issue tracking: <https://github.com/opencv/opencv/issues>
+* xml data:<https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml>
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib> 
 
 
@@ -20,4 +21,5 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Choose the right base branch;
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).4
+
